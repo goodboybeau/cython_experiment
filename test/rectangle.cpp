@@ -1,4 +1,5 @@
 #include "Rectangle.hpp"
+#include <iostream>
 
 using namespace shapes;
 
